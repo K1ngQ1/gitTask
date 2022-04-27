@@ -1,1 +1,2 @@
-console.log("Git is Awesome!")
+let input = document.getElementById("input")
+    console.log(input.value)
